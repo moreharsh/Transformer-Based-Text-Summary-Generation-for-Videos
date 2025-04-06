@@ -28,7 +28,7 @@ Following are the navigations for:
 
 
 <h2>GitHub Link: </h2>
-<a href="https://github.com/moreharsh/Video-Summary-Generation">https://github.com/moreharsh/Video-Summary-Generation</a>
+<a href="https://github.com/moreharsh/Transformer-Based-Text-Summary-Generation-for-Videos">https://github.com/moreharsh/Transformer-Based-Text-Summary-Generation-for-Videos</a>
 
 <h2>About the Team</h2>
 All the members of team are students of Second Year Information Technology Department of Vishwakarma Institute of Technology, Pune.
